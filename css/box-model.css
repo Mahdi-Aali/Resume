@@ -1,0 +1,129 @@
+.vertical-center
+{
+    margin: auto 0px;
+}
+.horizontal-center
+{
+    margin: 0px auto;
+}
+.full-center
+{
+    margin: auto auto;
+}
+.margin-0
+{
+    margin: 0px;
+}
+.margin-2-px
+{
+    margin: 2px;
+}
+.margin-10-px
+{
+    margin: 10px;
+}
+.margin-20-px
+{
+    margin: 20px;
+}
+.margin-top-20-px
+{
+    margin-top: 20px;
+}
+.margin-top-50-px
+{
+    margin-top: 50px;
+}
+.margin-30-px
+{
+    margin: 30px;
+}
+.margin-top-30-px
+{
+    margin-top: 30px;
+}
+.margin-left-30-px
+{
+    margin-left: 30px;
+}
+.negetive-margin-30-px
+{
+    margin: -30px;
+}
+.negetive-margin-40-px
+{
+    margin: -40px;
+}
+.negetive-margin-50-px
+{
+    margin: -50px;
+}
+.margin-40-px
+{
+    margin: 40px;
+}
+.margin-50-px
+{
+    margin: 50px;
+}
+.margin-60-px
+{
+    margin: 60px;
+}
+.margin-70-px
+{
+    margin: 70px;
+}
+.margin-80-px
+{
+    margin: 80px;
+}
+.margin-90-px
+{
+    margin: 90px;
+}
+.margin-100-px
+{
+    margin: 100px;
+}
+
+.padding-0
+{
+    padding: 0px;
+}
+.padding-2-px
+{
+    padding: 2px;
+}
+.padding-10-px{
+    padding: 10px;
+}
+
+.padding-20-px
+{
+    padding: 20px;
+}
+.padding-30-px
+{
+    padding: 30px;
+}
+.padding-left-20-px
+{
+    padding-left: 20px;
+}
+.padding-left-30-px
+{
+    padding-left: 30px;
+}
+.padding-bottom-40-px
+{
+    padding-bottom: 40px;
+}
+.padding-50-px
+{
+    padding: 50px;
+}
+.padding-right-10-px
+{
+    padding-right: 10px;
+}
